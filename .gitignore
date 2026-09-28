@@ -1,0 +1,20 @@
+# Бинарные выгрузки 1С
+*.cf
+*.dt
+*.cfe
+*.epf
+*.erf
+
+# Логи
+*.log
+/1Cv8Log/
+/1Cv8FTxt/
+
+# Служебные
+.DS_Store
+Thumbs.db
+*.tmp
+
+# IDE
+.vscode/
+.idea/
